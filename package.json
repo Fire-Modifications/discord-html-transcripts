@@ -29,7 +29,7 @@
     "dist/**/*"
   ],
   "dependencies": {
-    "axios": "^0.27.2",
+    "axios": "^1.6.3",
     "he": "^1.2.0",
     "highlight.js": "^11.5.1",
     "html-minifier": "^4.0.0",
